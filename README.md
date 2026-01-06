@@ -24,4 +24,20 @@ O modelo atingiu alta acurácia (próxima de 1.00), mostrando que é capaz de cl
 - Python 3  
 - pandas  
 - scikit-learn  
-- matplotlib  
+- matplotlib
+
+- ## 🔍 Atuação como QA (Portfólio)
+
+Este projeto também foi utilizado como **estudo de caso para práticas de Garantia da Qualidade de Software (QA)**.
+
+Como QA, realizei as seguintes atividades:
+
+- Análise do comportamento do sistema
+- Planejamento de testes
+- Criação de casos de teste
+- Execução de testes manuais
+- Registro e documentação de defeitos
+
+Os artefatos de QA criados para este projeto podem ser encontrados na pasta:
+
+📂 **/qa**
