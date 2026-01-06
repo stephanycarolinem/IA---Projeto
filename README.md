@@ -1,43 +1,46 @@
 # Projeto: Classificador de Flores Iris com Python
 
-Este projeto é um estudo básico em Inteligência Artificial e Machine Learning, desenvolvido em Python.
-Foi utilizado bibliotecas como **pandas**, **scikit-learn** e **matplotlib**.
+Este projeto consiste em um estudo prático de Inteligência Artificial e Machine Learning, desenvolvido em Python, utilizando o conjunto de dados Iris.
+
+---
 
 ## Objetivo
+Desenvolver um modelo de machine learning capaz de classificar flores do tipo Iris em três espécies diferentes, avaliando sua acurácia e comportamento.
 
-Construir um modelo de machine learning capaz de classificar flores do tipo Iris em três espécies diferentes com alta precisão, utilizando o famoso conjunto de dados Iris.
+---
 
-## O que foi feito
+## Escopo do Projeto
+- Carregamento e exploração do conjunto de dados Iris
+- Treinamento de um classificador utilizando o algoritmo Random Forest
+- Avaliação da performance do modelo por meio da acurácia
+- Visualização básica dos resultados
 
-- Carreguei o conjunto de dados Iris.
-- Explorei os dados mostrando exemplos das características das flores.
-- Treinei um classificador (usando o algoritmo Random Forest) para distinguir as espécies.
-- Avaliei a performance do modelo medindo sua acurácia.
-- Visualizei resultados básicos.
+---
 
-## Resultado
+## Resultados
+O modelo alcançou alta acurácia (próxima de 1.00), demonstrando bom desempenho na classificação das espécies do conjunto de dados.
 
-O modelo atingiu alta acurácia (próxima de 1.00), mostrando que é capaz de classificar corretamente as espécies do conjunto de dados.
+---
 
-## Tecnologias utilizadas
-
-- Python 3  
-- pandas  
-- scikit-learn  
+## Tecnologias Utilizadas
+- Python 3
+- pandas
+- scikit-learn
 - matplotlib
 
-- ## 🔍 Atuação como QA (Portfólio)
+---
 
-Este projeto também foi utilizado como **estudo de caso para práticas de Garantia da Qualidade de Software (QA)**.
+## 🔍 Atuação como QA (Portfólio)
 
-Como QA, realizei as seguintes atividades:
+Este projeto também foi utilizado como estudo de caso para aplicação de práticas de Garantia da Qualidade de Software (QA).
 
+Como QA, foram realizadas as seguintes atividades:
 - Análise do comportamento do sistema
 - Planejamento de testes
-- Criação de casos de teste
-- Execução de testes manuais
+- Criação de casos de teste manuais
+- Execução de testes funcionais
 - Registro e documentação de defeitos
 
-Os artefatos de QA criados para este projeto podem ser encontrados na pasta:
+Os artefatos de QA produzidos podem ser encontrados na pasta:
 
 📂 **/qa**
