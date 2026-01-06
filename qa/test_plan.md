@@ -1,23 +1,45 @@
-# Plano de Testes – Projeto IA (Classificador Iris)
+# Plano de Testes – Classificador de Flores Iris
 
-## 1. Objetivo
-Validar a execução e o comportamento do script de classificação de flores Iris.
+## 1. Introdução
+Este documento descreve o plano de testes do projeto **Classificador de Flores Iris**, com foco em garantir a qualidade, confiabilidade e correto funcionamento do sistema.
+
+---
 
 ## 2. Escopo
-Testar:
-- Execução do script Python
-- Entrada de dados
-- Saída do resultado
-- Tratamento de erros
+Serão testadas as funcionalidades relacionadas à execução do classificador e validação dos dados de entrada.
 
-## 3. Fora do escopo
-- Otimização de modelo
-- Performance do algoritmo
+---
 
-## 4. Ambiente de Teste
-- Python 3
-- Bibliotecas listadas em requirements.txt
+## 3. Fora do Escopo
+- Testes automatizados
+- Testes de performance
+- Testes de segurança
 
-## 5. Critérios de Sucesso
-- Script executa sem erros
-- Resultado é exibido corretamente
+---
+
+## 4. Tipo de Testes
+- Teste Funcional Manual
+
+---
+
+## 5. Ambiente de Teste
+- Linguagem: Python
+- Versão: Python 3
+- Sistema Operacional: Windows
+
+---
+
+## 6. Critérios de Entrada
+- Código-fonte disponível
+- Ambiente configurado
+
+---
+
+## 7. Critérios de Saída
+- Casos de teste executados
+- Bugs registrados
+
+---
+
+## 8. Responsável
+- QA: Stephany Marques
